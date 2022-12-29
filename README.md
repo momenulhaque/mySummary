@@ -45,3 +45,7 @@ mySummary(Dat[Dat$sex=="M", ]$age)
 #>     min   Q1 mean median   Q3 max IQR range       sd NAs
 #> 25%  27 28.5 35.5   34.5 41.5  46  13    19 9.036961   0
 ```
+
+
+Cite this R package: [![DOI](https://zenodo.org/badge/565283172.svg)](https://zenodo.org/badge/latestdoi/565283172)
+
